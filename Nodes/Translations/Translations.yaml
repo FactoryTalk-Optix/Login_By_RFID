@@ -1,0 +1,65 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [50,2],
+    "Body": [
+     "Key","en-US",
+     "Name","Name",
+     "EmptyUserList","No users in list",
+     "Groups","Groups",
+     "Create","Create",
+     "Delete","Delete",
+     "Password","Password",
+     "Apply","Apply",
+     "Cancel","Cancel",
+     "PasswordChangedTooRecently","Password changed too recently",
+     "Locale:","Locale:",
+     "CannotCreateUserWithEmptyUsername","Cannot create user with empty username",
+     "UnableToGetUsers","Unable to get users",
+     "UserNotFound","User not found",
+     "PasswordAlreadyUsed","Password already used in the past",
+     "PasswordTooShort","Password too short",
+     "UnsupportedOperation","Unsupported operation",
+     "ChangesAppliedSuccessfully","Changes applied successfully",
+     "UsernameAlreadyExists","Username already exists",
+     "Login","Login",
+     "Old password","Old password",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation",
+     "New password","New password",
+     "Confirm password","Confirm password",
+     "Change password","Change password",
+     "Current User:","Current User:",
+     "Logout","Logout",
+     "Your password is expired. Please enter a new one","Your password is expired.\nPlease enter a new one.",
+     "LoginFormLoginSuccessful","Login successful",
+     "LoginFormPasswordExpired","Password expired",
+     "LoginFormAuthenticationFailed","Authentication failed",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently",
+     "LoginChangePasswordFormPasswordTooShort","Password too short",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match",
+     "LoginChangePasswordFormUserNotFound","User not found",
+     "Change User","Change User",
+     "ChangePasswordFormSuccessMessage","Password changed successfully",
+     "Your password has expired. Please enter a new one.","Your password has expired. Please enter a new one.",
+     "ChangeUserFormOutputSuccessMessage","Change User successful",
+     "ChangeUserFormOutputErrorMessage","Authentication failed",
+     "ChangeUserFormOutputPasswordExpired","Password expired",
+     "ChangePasswordFormWrongOldPasswordMessage","Wrong old password",
+     "ChangePasswordFormPasswordAlreadyUsedMessage","Password already used",
+     "ChangePasswordFormPasswordChangedTooRecentlyMessage","Password changed too recently",
+     "ChangePasswordFormPasswordTooShortMessage","Password too short",
+     "ChangePasswordFormUserNotFoundMessage","User not found",
+     "ChangePasswordFormUnsupportedOperationMessage","Unsupported operation",
+     "ChangePasswordFormPasswordMismatchMessage","Passwords do not match"
+    ]
+   }

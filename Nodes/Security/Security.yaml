@@ -1,0 +1,15 @@
+Name: Security
+Id: g=5fbe002919e77159264f95cdb75cbc5f
+Type: SecurityCategoryFolder
+Children:
+- File: Users/Users.yaml
+- File: Groups/Groups.yaml
+- Name: RFID_User
+  Id: g=d92c5446b80b0d9f3a9ec8fc094b777f
+  Supertype: UserType
+  Children:
+  - Name: RFID_Id
+    Id: g=9f50b824b9fafdb22f9c6eccfe6f9a31
+    Type: BaseDataVariableType
+    DataType: String
+    Value: ""

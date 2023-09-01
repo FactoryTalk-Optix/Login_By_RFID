@@ -1,0 +1,13 @@
+Name: Users
+Id: g=2e0032c661bb5ce524e25412137d3909
+Type: UsersCategoryFolder
+Children:
+- Name: User1
+  Id: g=35ab8183debc5ab482952700b9180ec5
+  Type: RFID_User
+  Children:
+  - Name: RFID_Id
+    Id: g=7f76c5e05d0a800b077591ca342a7c97
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "3788266532"
